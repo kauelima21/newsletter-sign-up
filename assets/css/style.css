@@ -132,6 +132,8 @@ main {
   padding: 15px;
   transition: .3s all ease-out;
   flex-basis: 100%;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .main-content-form button:hover,
